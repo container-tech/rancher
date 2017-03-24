@@ -9,5 +9,5 @@ MySQLServer:
   labels:
     io.rancher.container.pull_image: always
   tty: true
-  image: mysql:5.7
+  image: mysql:latest
   stdin_open: true
