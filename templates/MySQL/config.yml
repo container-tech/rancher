@@ -1,6 +1,6 @@
 name: "MySQLServer"
-description: "MySQL Sevverです。ちょっとデータベースが利用したいときなどにどうぞ。"
-version: "latest"
+description: "MySQL Sevverです。"
+version: "5.7"
 category: "SQLDBServer"
 maintainer: 
 license: 
